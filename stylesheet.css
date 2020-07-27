@@ -4,9 +4,9 @@
 
 .box1 {
   float: left;
-  width: 22%;
-  padding: 120px;
-  height: 300px;
+   width: 22%;
+   padding: 120px;
+   height: 300px;
 }
 
 .box2 {
@@ -55,6 +55,7 @@ body {
   background-color: black;
 
 }
+
 
 /* Style the topnav links */
 .topnav a {
